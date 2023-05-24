@@ -1,0 +1,6 @@
+C:\Users\ropombo\source\repos\Database4_\bin\Debug\Database4_.dacpac
+C:\Users\ropombo\source\repos\Database4_\bin\Debug\Database4_.dll
+C:\Users\ropombo\source\repos\Database4_\bin\Debug\Database4_.pdb
+C:\Users\ropombo\source\repos\Database4_\obj\Debug\Database4_.dll
+C:\Users\ropombo\source\repos\Database4_\obj\Debug\Database4_.pdb
+C:\Users\ropombo\source\repos\Database4_\obj\Debug\Database4_.sqlproj.AssemblyReference.cache

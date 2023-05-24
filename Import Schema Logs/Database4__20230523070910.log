@@ -1,0 +1,87 @@
+23/05/2023 20:09:10	This log contains information about the import schema operation into project 'Database4_' on computer 'TABLET-R83JBC3C' by user 'ropombo'.
+23/05/2023 20:09:10	Import of database schema has started.
+23/05/2023 20:09:33	Gathering database credentials
+23/05/2023 20:09:33	Gathering database options
+23/05/2023 20:09:33	Gathering generic database scoped configuration option
+23/05/2023 20:09:33	Gathering users
+23/05/2023 20:09:33	Gathering roles
+23/05/2023 20:09:33	Gathering application roles
+23/05/2023 20:09:33	Gathering role memberships
+23/05/2023 20:09:33	Gathering filegroups
+23/05/2023 20:09:33	Gathering full-text catalogs
+23/05/2023 20:09:33	Gathering assemblies
+23/05/2023 20:09:33	Gathering certificates
+23/05/2023 20:09:33	Gathering asymmetric keys
+23/05/2023 20:09:33	Gathering symmetric keys
+23/05/2023 20:09:33	Gathering encrypted symmetric keys
+23/05/2023 20:09:33	Gathering schemas
+23/05/2023 20:09:33	Gathering XML schema collections
+23/05/2023 20:09:33	Gathering user-defined data types
+23/05/2023 20:09:33	Gathering user-defined types
+23/05/2023 20:09:33	Gathering table types
+23/05/2023 20:09:33	Gathering unique keys for table types
+23/05/2023 20:09:33	Gathering primary keys for table types
+23/05/2023 20:09:33	Gathering indexes for table types
+23/05/2023 20:09:33	Gathering check constraints for table types
+23/05/2023 20:09:33	Gathering default constraints for table types
+23/05/2023 20:09:33	Gathering partition functions
+23/05/2023 20:09:33	Gathering partition schemes
+23/05/2023 20:09:33	Gathering functions
+23/05/2023 20:09:33	Gathering encrypted functions
+23/05/2023 20:09:33	Gathering aggregates
+23/05/2023 20:09:33	Gathering procedures
+23/05/2023 20:09:33	Gathering encrypted procedures
+23/05/2023 20:09:33	Gathering tables
+23/05/2023 20:09:33	Gathering primary keys
+23/05/2023 20:09:33	Gathering unique constraints
+23/05/2023 20:09:33	Gathering foreign keys
+23/05/2023 20:09:33	Gathering default constraints
+23/05/2023 20:09:33	Gathering check constraints
+23/05/2023 20:09:33	Gathering views
+23/05/2023 20:09:33	Gathering encrypted views
+23/05/2023 20:09:33	Gathering indexes
+23/05/2023 20:09:33	Gathering statistics
+23/05/2023 20:09:33	Gathering full-text index stoplists
+23/05/2023 20:09:33	Gathering search property lists
+23/05/2023 20:09:33	Gathering search properties
+23/05/2023 20:09:33	Gathering full-text indexes
+23/05/2023 20:09:33	Gathering column store indexes
+23/05/2023 20:09:33	Gathering spatial indexes
+23/05/2023 20:09:33	Gathering XML indexes
+23/05/2023 20:09:33	Gathering Selective XML indexes
+23/05/2023 20:09:33	Gathering encrypted triggers
+23/05/2023 20:09:33	Gathering triggers
+23/05/2023 20:09:33	Gathering encrypted and clr ddl triggers
+23/05/2023 20:09:33	Gathering ddl triggers
+23/05/2023 20:09:33	Creating edge constraints
+23/05/2023 20:09:33	Gathering synonyms
+23/05/2023 20:09:33	Gathering defaults
+23/05/2023 20:09:33	Gathering data constraint uddt bindings
+23/05/2023 20:09:33	Gathering rules
+23/05/2023 20:09:33	Gathering data constraint uddt bindings
+23/05/2023 20:09:33	Gathering message types
+23/05/2023 20:09:33	Gathering queues
+23/05/2023 20:09:33	Gathering contracts
+23/05/2023 20:09:33	Gathering services
+23/05/2023 20:09:33	Gathering event notifications
+23/05/2023 20:09:33	Gathering remote service bindings
+23/05/2023 20:09:33	Gathering broker priorities
+23/05/2023 20:09:33	Gathering signatures
+23/05/2023 20:09:33	Gathering data compression options
+23/05/2023 20:09:33	Gathering sequence types
+23/05/2023 20:09:33	Gathering security policies
+23/05/2023 20:09:33	Gather column encryption keys
+23/05/2023 20:09:33	Gathering column master keys
+23/05/2023 20:09:33	Gathering external data sources
+23/05/2023 20:09:33	Gathering external file formats
+23/05/2023 20:09:33	Gathering external tables
+23/05/2023 20:09:33	Gathering extended properties
+23/05/2023 20:09:33	Gathering assemblies
+23/05/2023 20:09:39	Gathering credentials
+23/05/2023 20:09:39	Gathering logins
+23/05/2023 20:09:39	Gathering server audits
+23/05/2023 20:09:41	Scanning project for duplicate elements
+23/05/2023 20:09:41	Finished duplicate element processing
+23/05/2023 20:09:42	Finished importing database.
+23/05/2023 20:09:42	A summary of the import was saved to the following location: C:\Users\ropombo\source\repos\Database4_\Import Schema Logs\Database4__20230523070910.log
+23/05/2023 20:09:42	Click Finish to continue...
